@@ -1,7 +1,7 @@
 ### Console.WriteLine("Hello World! 👋");
 
 - 🔭 Front-End Developer
-- 🌱 Back-End and .NET Framework
+- 🌱 Back-End with .NET Framework
 - 📫 Contact: guilhermegasparperroni97@gmail.com
 - ❤️ Leona's Father
 
