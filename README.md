@@ -1,9 +1,9 @@
-### Olá mundo! Eu sou Guilherme Gaspar 👋
+### Console.WriteLine("Hello World! 👋");
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando back-end com o framework .NET
-- 📫 Me chame no e-mail: guilhermegasparperroni97@gmail.com
-- ❤️ Leona é o nome da minha filha
+- 🔭 Front-End Developer
+- 🌱 Back-End and .NET Framework
+- 📫 Contact: guilhermegasparperroni97@gmail.com
+- ❤️ Leona's Father
 
 <div>
   <a href="https://github.com/remoteck">
