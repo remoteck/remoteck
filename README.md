@@ -1,6 +1,6 @@
-### Console.WriteLine("Hello World! 👋");
+### Hello World! 👋;
 
-- 🔭 .NET Developer && QA Intern @ T-Systems
+- 🔭 Backend Developer && QA Intern @ T-Systems
 - 📫 Contact: guilhermegasparperroni97@gmail.com
 - ❤️ Leona's Father
 
