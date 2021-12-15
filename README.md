@@ -1,6 +1,6 @@
 ### Hello World! 👋;
 
-- 🔭 Backend Developer && QA Intern @ T-Systems
+- 🔭 Java Backend Developer && QA Intern @ T-Systems
 - 📫 Contact: guilhermegasparperroni97@gmail.com
 - ❤️ Leona's Father
 
