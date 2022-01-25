@@ -1,6 +1,6 @@
 ### Hello World! 👋;
 
-- 🔭 Java Backend Developer
+- 🔭 Java Developer
 - 📫 Contact: guilhermegasparperroni97@gmail.com
 - ❤️ Leona's Father
 
